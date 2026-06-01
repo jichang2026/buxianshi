@@ -1,5 +1,5 @@
 # buxianshi不限时性价比机场推荐 
-https://github.com/jichang2026/haojichang
+https://github.com/jichang2026/haojichang <——更全面的机场订阅节点大收录
 
 <a id="traffic-based-plans"></a>
 
@@ -30,7 +30,7 @@ https://github.com/jichang2026/haojichang
 
 ---
 
-## 推荐服务商
+## 推荐服务商【这些机场往往也支持月付，后面能看月付价格】
 
 <details open>
 <summary><strong>点击展开 / 折叠</strong></summary>
