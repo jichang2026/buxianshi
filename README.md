@@ -2,7 +2,7 @@
 
 [GitHub机场大收录](https://github.com/jichang2026/haojichang) <—— 更全面的机场订阅节点大收录
 
-> ## ⭐ 特别推荐：[EdNovas](https://ednovas.org/#/register?code=SQfyNQXH)  本文重点介绍的不限时机场在后面，如果本文能您有益，感谢加星。
+> ## ⭐ 特别推荐：[EdNovas](https://github.com/jichang2026/huiguoxianlu-ednovas/tree/main)  本文重点介绍的不限时机场在后面，如果本文能帮到您，感谢加星。
 >
 > EdNovas 属于目前少见同时提供**全球亚太、欧洲、北美中转回国线路**的机场，对于海外华人、留学生以及跨境办公用户尤其友好。
 >
@@ -66,8 +66,8 @@
 | <a id="m78"></a>**M78星云**            | [立即注册](https://www.m78.at/#/register?code=SKXNP266)              | 提供 Emby 服务，超万部 4K 高清影片免费观看。300G 不过期流量仅 ¥99，月付套餐价格也十分具有竞争力。 | ⭐⭐⭐⭐⭐ |
 | <a id="jisuyun"></a>**极速云**          | [立即注册](https://905.jsy902.xyz/#/register?code=COJehQsA)          | IEPL 与高速中转线路，支持主流流媒体与 AI 服务访问。提供月付及不限时流量包。                 | ⭐⭐⭐⭐  |
 | <a id="mojie"></a>**魔戒**             | [立即注册](https://mojie.app/register?aff=Cbx6TgWO)                  | 少见的纯按量付费模式，流量长期有效。                                         | ⭐⭐⭐⭐⭐ |
-| <a id="shiziyun"></a>**狮子云**         | [立即注册](https://dash.shizi.in/portal/register?code=vQfIfz52)      | 套餐结构简洁明了。                                                  | ⭐⭐⭐⭐  |
-| <a id="bigme"></a>**BigME**          | [立即注册](https://1s.bigmeok.me/user#/register?code=KzW3JEW7)       | 按量包与月付套餐较为均衡。                                              | ⭐⭐⭐⭐  |
+| <a id="shiziyun"></a>**狮子云**         | [立即注册](https://dash.shizi.in/portal/register?code=vQfIfz52)      | 套餐结构简洁明了。                                                  | ⭐⭐⭐  |
+| <a id="bigme"></a>**BigME**          | [立即注册](https://1s.bigmeok.me/user#/register?code=KzW3JEW7)       | 按量包与月付套餐较为均衡。                                              | ⭐⭐⭐  |
 | <a id="baobeiyun"></a>**宝贝云**        | [立即注册](https://web1.bby011.com/#/register?code=hS7GuU36)         | 注册赠送体验流量。                                                  | ⭐⭐⭐   |
 | <a id="paopaodog"></a>**泡泡DOG**      | [立即注册](https://1226.ppg02-mqelltoq.top/#/register?code=xd9L2YPa) | 运营时间较久。                                                    | ⭐⭐⭐⭐  |
 | <a id="pakecloud"></a>**帕克云**        | [立即注册](https://aff3.923ka.com/#login?code=b7UlHCHu)              | 全球节点与专线网络。                                                 | ⭐⭐⭐⭐  |
@@ -75,17 +75,68 @@
 | <a id="guangsu"></a>**光速机场**         | [立即注册](https://gsgs.nxxbbf.com/#/register?code=5U0lzBX8)         | 入门门槛较低。                                                    | ⭐⭐⭐   |
 | <a id="jinglingxueyuan"></a>**精灵学院** | [立即注册](https://pub2.riolu.icu/?code=sLCuvIj1)                    | 支持月付和不限时流量包。                                               | ⭐⭐⭐⭐  |
 | <a id="maoyun"></a>**Maoyun**        | [立即注册](https://www.maoyun.org/index.php#/register?code=IpBBIGVK) | 适合作为日常备用方案。                                                | ⭐⭐⭐   |
-| <a id="maoeryun"></a>**猫耳云**         | [立即注册](https://88.mao2-gw.top/#/register?code=i6k8fazW)          | 支持多种协议。                                                    | ⭐⭐⭐   |
+| <a id="maoeryun"></a>**猫耳云**         | [立即注册](https://88.mao2-gw.top/#/register?code=i6k8fazW)          | 支持多种协议。不限时 36 元有 168G                                     | ⭐⭐⭐   |
 | <a id="chuanshanjia"></a>**穿山甲**     | [立即注册](https://aff01.csj2025.com/#/register?code=7aOZ2LLY)       | 提供部分住宅 IP 节点。                                              | ⭐⭐⭐   |
-| <a id="dabai"></a>**大白**             | [立即注册](https://www.dabai.in/auth/register?code=Qjlt)             | 提供免费体验资源。                                                  | ⭐⭐⭐   |
+| <a id="runway"></a>**Runway**             | [立即注册](https://ydzzyujrrv.runwayhz.com/#/register?code=wK8qAeCM)         | 提供免费1天6G体验。 永久150g只要45,100g月付是9.9          | ⭐⭐⭐⭐   |
+| <a id="wjkc"></a>**网际快车**             | [立即注册](https://xy.快车.com?c=UEXRNB)             | 提供免费1天5G体验。24元可得100g永久不限时;月付28可得1800g                              | ⭐⭐⭐⭐  |
+
 
 </details>
+---
+# 不限时流量套餐
+
+## 按价格排序
+
+| 服务商    | 套餐       | 价格   |
+| ------ | -------- | ---- |
+| 光速机场   | 100G     | ¥5   |
+| 光速机场   | 500G     | ¥15  |
+| 猫耳云    | 168G     | ¥36  |
+| Maoyun | 100G     | ¥35  |
+| Maoyun | 300G     | ¥50  |
+| 宝贝云    | 600G     | ¥55  |
+| 猫耳云    | 1000G    | ¥55  |
+| BigME  | 400G     | ¥60  |
+| 精灵学院   | 400G     | ¥70  |
+| 极速云    | 166G     | ¥88  |
+| M78星云  | 300G 不限时 | ¥99  |
+| 乌龟加速   | 1000G    | ¥97  |
+| BigME  | 800G     | ¥109 |
+| 泡泡DOG  | 888G     | ¥116 |
+| 狮子云    | 1024G    | ¥128 |
+| 魔戒     | 1660G    | ¥138 |
+| 极速云    | 416G     | ¥168 |
+| 魔戒     | 10TB     | ¥688 |
+
+---
+
+# 月付套餐
+
+| 服务商     | 套餐        | 价格     |
+| ------- | --------- | ------ |
+| Maoyun  | 20G/月     | ¥5     |
+| BigME   | 45G/月     | ¥6     |
+| 大白      | 不限量       | ¥7.2 起 |
+| 精灵学院    | 30G/月     | ¥8     |
+| Maoyun  | 100G/月    | ¥8     |
+| 穿山甲     | 100G/月    | ¥10    |
+| BigME   | 120G/月    | ¥10    |
+| M78星云   | 150G/月    | ¥12.8  |
+| 宝贝云     | 1000G/月   | ¥15    |
+| 精灵学院    | 120G/月    | ¥15    |
+| 帕克云     | 100G/月    | ¥15    |
+| 乌龟加速    | 200G/月    | ¥15    |
+| 极速云     | 月流量套餐     | ¥16    |
+| 狮子云     | 100G/月    | ¥16    |
+| Maoyun  | 300G/月    | ¥20    |
+| M78星云   | 300G/月    | ¥22.8  |
+| EdNovas | 25G/月（年付） | ¥68/年  |
 
 ---
 
 ## 影音娱乐用户推荐
 
-### [M78星云](https://www.m78.at/#/register?code=SKXNP266)
+### [M78星云](https://www.m78.at/#/register?code=SKXNP266) -注册位置在网页中间不醒目地方
 
 特点：
 
@@ -131,4 +182,20 @@
 | 游戏与直播场景 | 帕克云、极速云         |
 | 海外回国需求  | EdNovas         |
 | 影音娱乐需求  | M78星云           |
-| 希望先试用   | 大白、宝贝云          |
+| 希望先试用   | Runway、宝贝云          |
+
+---
+
+## 风险提示
+
+* 套餐价格和流量额度可能随时调整；
+* 不限时流量并不等同于永久服务；
+* 节点质量及流媒体解锁能力会随着时间变化；
+* 购买前建议优先使用试用流量或低价套餐测试；
+* 实际线路质量与节点数量请以官方说明为准；
+* 使用任何网络服务前，请自行了解当地法律法规并承担相应责任。
+
+---
+
+[↑ 返回顶部](#buxianshi不限时性价比机场推荐（含回国线路又有Emby服务的机场）)
+
